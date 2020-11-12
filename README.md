@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a company!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Project to learn a new things
-- 🥅 2020 Goals: Become a good front-end developer
+- 🥅 2021 Goals: Become a good front-end developer
 - ⚡ Fun fact: I love learning algorithms and new technology
 
 ### Connect with me:
