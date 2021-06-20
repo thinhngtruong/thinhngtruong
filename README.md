@@ -9,7 +9,7 @@
 ### Connect with me:
 [<img align="left" alt="thinh.ngtruong | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
-[<img align="left" alt="krista.hcmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="krista.hcmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
@@ -34,5 +34,5 @@
 
 [linkedin]: https://www.linkedin.com/in/thinhngtruong/
 [facebook]: https://www.facebook.com/nguyen.tr.thinh
-[instagram]: https://www.instagram.com/krista.hcmus/
+[github]: https://github.com/thinhngtruong
 
