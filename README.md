@@ -4,7 +4,7 @@
 >
 >— Steve Jobs
 
-![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong)
+![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
 
 ### Connect with me:
 [<img align="left" alt="thinh.ngtruong | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
