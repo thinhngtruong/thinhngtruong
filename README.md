@@ -4,6 +4,7 @@
 >
 >— Steve Jobs
 
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
 ![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
 
 ### Connect with me:
