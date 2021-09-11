@@ -3,10 +3,12 @@
 My strengths is having a strong, deep base knowledge and quickly get used to stuffs (have experienced a lot of tech-stacks), self-study ability and love the challenge.
 <br />
 
-## My favorite quotes
+### My favorite quotes
 > You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
 >
 >— Steve Jobs
+
+### Some interesting stats about my Github
 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
 <br />
