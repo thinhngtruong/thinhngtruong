@@ -8,6 +8,25 @@
 <br />
 ![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
 
+<br />
+
+## My strengths is have a strong, deep base knowledge and quickly get use to stuffs (i have experienced a lot of tech-stacks), deeply caring for the product and always trying to improve myself to deliver better and better output.
+
+<br />
+
+### TECHNICAL SKILLS:
+Programing Language: Javascript/Typescript
+Frontend Development: ReactJS, React hook, Redux, Jquery, Vanilla JS, ES6, SCSS
+Backend Development: Node.js, Express.js, Sequelize, Docker
+Database: MySQL, MongoDB, Redis
+OS: Linux, macOS, Windows
+Build & Bundle Tools: Grunt, Gulp, webpack
+CI/CD Tools: Jenkins, Circle CI, Github Action 
+Testing: Mocha, Chai, Jest
+Knowledge: Data Structure & Algorithm, OS, Networking
+Project management tools: Jira, Clickup, Notion, Trello 
+Git: Bitbucket, Gitlab, Github
+
 ### Connect with me:
 [<img align="left" alt="thinh.ngtruong | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
