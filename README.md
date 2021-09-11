@@ -10,22 +10,22 @@
 
 <br />
 
-## My strengths is have a strong, deep base knowledge and quickly get use to stuffs (i have experienced a lot of tech-stacks), deeply caring for the product and always trying to improve myself to deliver better and better output.
+My strengths is having a strong, deep base knowledge and quickly get used to stuffs (have experienced a lot of tech-stacks), self-study ability and love the challenge.
 
 <br />
 
 ### TECHNICAL SKILLS:
-Programing Language: Javascript/Typescript
-Frontend Development: ReactJS, React hook, Redux, Jquery, Vanilla JS, ES6, SCSS
-Backend Development: Node.js, Express.js, Sequelize, Docker
-Database: MySQL, MongoDB, Redis
-OS: Linux, macOS, Windows
-Build & Bundle Tools: Grunt, Gulp, webpack
-CI/CD Tools: Jenkins, Circle CI, Github Action 
-Testing: Mocha, Chai, Jest
-Knowledge: Data Structure & Algorithm, OS, Networking
-Project management tools: Jira, Clickup, Notion, Trello 
-Git: Bitbucket, Gitlab, Github
+Programing Language: Javascript/Typescript <br />
+Frontend Development: ReactJS, React hook, Redux, Jquery, Vanilla JS, ES6, SCSS <br />
+Backend Development: Node.js, Express.js, Sequelize, Docker <br />
+Database: MySQL, MongoDB, Redis <br />
+OS: Linux, macOS, Windows <br />
+Build & Bundle Tools: Grunt, Gulp, webpack <br />
+CI/CD Tools: Jenkins, Circle CI, Github Action <br />
+Testing: Mocha, Chai, Jest <br />
+Knowledge: Data Structure & Algorithm, OS, Networking <br />
+Project management tools: Jira, Clickup, Notion, Trello <br />
+Git: Bitbucket, Gitlab, Github <br />
 
 ### Connect with me:
 [<img align="left" alt="thinh.ngtruong | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
