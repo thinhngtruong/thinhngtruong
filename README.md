@@ -7,6 +7,7 @@ My strengths is having a strong, deep base knowledge and quickly get used to stu
 > You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
 >
 >— Steve Jobs
+<br />
 
 ### Some interesting stats about my Github
 
@@ -16,7 +17,7 @@ My strengths is having a strong, deep base knowledge and quickly get used to stu
 
 <br />
 
-### TECHNICAL SKILLS:
+### Technical Skills:
 Programing Language: Javascript/Typescript <br />
 Frontend Development: ReactJS, React hook, Redux, Jquery, Vanilla JS, ES6, SCSS <br />
 Backend Development: Node.js, Express.js, Sequelize, Docker <br />
