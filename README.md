@@ -8,7 +8,6 @@ My strengths is having a strong, deep base knowledge and quickly get used to stu
 >
 >— Steve Jobs
 <br />
-
 ### Some interesting stats about my Github
 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
@@ -16,7 +15,6 @@ My strengths is having a strong, deep base knowledge and quickly get used to stu
 ![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
 
 <br />
-
 ### Technical Skills:
 Programing Language: Javascript/Typescript <br />
 Frontend Development: ReactJS, React hook, Redux, Jquery, Vanilla JS, ES6, SCSS <br />
