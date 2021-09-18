@@ -20,7 +20,7 @@ My strengths is having a strong, deep base knowledge and quickly get used to stu
 
 ### Technical Skills:
 Programing Language: Javascript/Typescript <br />
-Frontend Development: ReactJS, React hook, Redux, Jquery, Vanilla JS, ES6, SCSS <br />
+Frontend Development: ReactJS, React hook, Redux, NextJS, Jquery, Vanilla JS, ES6, SCSS, Speed Optimization <br />
 Backend Development: Node.js, Express.js, Sequelize, Docker <br />
 Database: MySQL, MongoDB, Redis <br />
 OS: Linux, macOS, Windows <br />
