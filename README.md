@@ -28,9 +28,9 @@
 <br />
 
 ### 🛠 &nbsp;Tech Stack
-Programing Language: Javascript/Typescript <br />
+Programing Language: Javascript/Typescript, Golang <br />
 Frontend Development: ReactJS, React hook, Redux, NextJS, Jquery, Vanilla JS, ES6, SCSS, Speed Optimization <br />
-Backend Development: Node.js, Express.js, Golang, Gin, Sequelize, Docker <br />
+Backend Development: Node.js, Express.js, Sequelize, Gin, GORM, Docker <br />
 Database: MySQL, MongoDB, Redis <br />
 OS: Linux, macOS, Windows <br />
 Build & Bundle Tools: Grunt, Gulp, webpack <br />
