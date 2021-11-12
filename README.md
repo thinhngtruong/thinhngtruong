@@ -30,7 +30,7 @@
 ### 🛠 &nbsp;Tech Stack
 Programing Language: Javascript/Typescript <br />
 Frontend Development: ReactJS, React hook, Redux, NextJS, Jquery, Vanilla JS, ES6, SCSS, Speed Optimization <br />
-Backend Development: Node.js, Express.js, Sequelize, Docker <br />
+Backend Development: Node.js, Express.js, Golang, Gin, Sequelize, Docker <br />
 Database: MySQL, MongoDB, Redis <br />
 OS: Linux, macOS, Windows <br />
 Build & Bundle Tools: Grunt, Gulp, webpack <br />
@@ -46,6 +46,7 @@ Git: Bitbucket, Gitlab, Github <br />
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 [<img align="left" alt="krista.hcmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
+<br />
 <br />
 
 ### 💻&nbsp;Languages and Tools:
