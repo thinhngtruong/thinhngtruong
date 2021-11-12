@@ -39,6 +39,7 @@ Testing: Mocha, Chai, Jest <br />
 Knowledge: Data Structure & Algorithm, OS, Networking <br />
 Project management tools: Jira, Clickup, Notion, Trello <br />
 Git: Bitbucket, Gitlab, Github <br />
+<br />
 
 ### 🌐&nbsp;Connect with me:
 [<img align="left" alt="thinh.ngtruong | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
