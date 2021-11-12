@@ -1,21 +1,24 @@
 <div align="center">
   <h2> 
-     Hi there, I'm Thinh Nguyen - A Fullstack Developer
+     Hi there, I'm Thinh Nguyen - A Fullstack Developer ✌️
   </h2>
 </div>
 
 ### 💻 &nbsp;About Me
-🎓  Studying Software Engineering at HCM University of Science with a very good bachelor's degree.  
-🔭  I have 2.5 years experience in Software development and currently working at BoostCommerce as Software Engineer.
+🎓  Graduated at HCM University of Science with a very good bachelor's degree.  
+🔭  Have 2.5 years experience in Software development and currently working at BoostCommerce as Software Engineer.
+💡  Enthusiastic developer with high flexibility to adapt to the new working environment and have good self-study ability.
 
-### Favorite quotes
+<br />
+
+### 💬 &nbsp;Favorite quotes
 > You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
 >
 >— Steve Jobs
 
 <br />
 
-### Some interesting stats about my Github
+### 📊 &nbsp;Some interesting stats about my Github
 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
 <br />
@@ -36,14 +39,14 @@ Knowledge: Data Structure & Algorithm, OS, Networking <br />
 Project management tools: Jira, Clickup, Notion, Trello <br />
 Git: Bitbucket, Gitlab, Github <br />
 
-### Connect with me:
+### 🌐&nbsp;Connect with me:
 [<img align="left" alt="thinh.ngtruong | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 [<img align="left" alt="krista.hcmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
-### Languages and Tools:
+### 💻&nbsp;Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
