@@ -33,7 +33,7 @@ Frontend Development: ReactJS, React hook, Redux, NextJS, Jquery, Vanilla JS, ES
 Backend Development: Node.js, Express.js, Sequelize, Gin, GORM, Docker <br />
 Database: MySQL, MongoDB, Redis <br />
 OS: Linux, macOS, Windows <br />
-Cloud: AWS S3, AWS EC2 <br />
+Cloud: AWS S3, AWS EC2, AWS Cloudfront <br />
 Build & Bundle Tools: Grunt, Gulp, webpack <br />
 CI/CD Tools: Jenkins, Circle CI, Github Action <br />
 Testing: Mocha, Chai, Jest <br />
