@@ -29,13 +29,13 @@
 
 ### 🛠 &nbsp;Tech Stack
 Programing Language: Javascript/Typescript, Golang <br />
-Frontend Development: ReactJS, React hook, Redux, NextJS, Jquery, Vanilla JS, ES6, SCSS, Speed Optimization <br />
+Frontend Development: ReactJS, React hook, Redux, Redux-toolkit, NextJS, Jquery, Vanilla JS, ES6, SCSS, Speed Optimization, Security <br />
 Backend Development: Node.js, Express.js, Sequelize, Gin, GORM, Docker <br />
 Database: MySQL, MongoDB, Redis <br />
 OS: Linux, macOS, Windows <br />
 Cloud: AWS S3, AWS EC2, AWS Cloudfront <br />
 Build & Bundle Tools: Grunt, Gulp, webpack <br />
-CI/CD Tools: Jenkins, Circle CI, Github Action <br />
+CI/CD Tools: Jenkins, Circle CI, Github Action, Vercel, Heroku <br />
 Testing: Mocha, Chai, Jest <br />
 Knowledge: Data Structure & Algorithm, OS, Networking <br />
 Project management tools: Jira, Clickup, Notion, Trello <br />
