@@ -73,6 +73,5 @@ Git: Bitbucket, Gitlab, Github <br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/thinhngtruong/
-[facebook]: https://www.facebook.com/nguyen.tr.thinh
 [github]: https://github.com/thinhngtruong
 
