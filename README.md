@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-     Hi there, I'm Thinh Nguyen - A Fullstack Developer ✌️
+     Hi there, I'm Thinh Nguyen ✌️
   </h2>
 </div>
 
