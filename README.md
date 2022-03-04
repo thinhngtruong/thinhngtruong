@@ -21,9 +21,9 @@
 
 ### 📊 &nbsp;Some interesting stats about my Github
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhngtruong&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhngtruong&layout=compact)
 <br />
-![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff)
+![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong&show_icons=true&include_all_commits=true&count_private=true)
 
 <br />
 
