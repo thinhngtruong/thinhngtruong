@@ -5,7 +5,6 @@
 </div>
 
 ### 💻 &nbsp;About Me
-🎓  Graduated at HCM University of Science with a very good bachelor's degree.  
 🔭  Have 3 years experience in Software development and currently working at BoostCommerce as Software Engineer.
 <br />
 💡  Enthusiastic developer with high flexibility to adapt to the new working environment and have good self-study ability.
