@@ -4,6 +4,11 @@
   </h2>
 </div>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=Software%20Engineer)
+
+![Profile views](https://komarev.com/ghpvc/?username=thinhngtruong)
+
+
 ### 💻 &nbsp;About Me
 🔭  Have 3 years experience in Software development and currently working at BoostCommerce as Software Engineer.
 <br />
