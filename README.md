@@ -35,7 +35,7 @@ OS: Linux, macOS, Windows <br />
 Cloud: AWS S3, AWS EC2, AWS Cloudfront <br />
 Build & Bundle Tools: Grunt, Gulp, webpack <br />
 CI/CD Tools: Jenkins, Circle CI, Github Action, Vercel, Heroku <br />
-Testing: Mocha, Chai, Jest <br />
+Testing: Mocha, Chai, Jest, Enzyme <br />
 Knowledge: Data Structure & Algorithm, OS, Networking <br />
 Project management tools: Jira, Clickup, Notion, Trello <br />
 Git: Bitbucket, Gitlab, Github <br />
