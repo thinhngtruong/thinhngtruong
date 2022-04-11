@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=Software%20Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=5594F0&lines=Software%20Engineer)
 
 ![Profile views](https://komarev.com/ghpvc/?username=thinhngtruong)
 
