@@ -10,7 +10,7 @@
 
 
 ### 💻 &nbsp;About Me
-🔭  Have 3 years experience in Software development and currently working at BoostCommerce as Software Engineer.
+🔭  Have over 3 years experience in Software development and currently working at Grab as Software Engineer.
 <br />
 💡  Enthusiastic developer with high flexibility to adapt to the new working environment and have good self-study ability.
 
