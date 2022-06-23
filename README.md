@@ -43,7 +43,7 @@ Cloud: AWS S3, AWS EC2, AWS Cloudfront <br />
 Build & Bundle Tools: Grunt, Gulp, webpack <br />
 CI/CD Tools: Jenkins, Circle CI, Github Action, Vercel, Heroku <br />
 Testing: Jest, Enzyme, Testing-library, Convey, Gandalf, Cypress, Cucumber, Mocha, Chai<br />
-Knowledge: Data Structure & Algorithm, OS, Networking <br />
+CS Knowledge: Data Structure & Algorithm, OS, Networking <br />
 Project management tools: Jira, Clickup, Notion, Trello <br />
 Git: Bitbucket, Gitlab, Github <br />
 <br />
