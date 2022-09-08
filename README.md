@@ -31,7 +31,7 @@
 <br />
 ![alt text](https://github-readme-stats.vercel.app/api?username=thinhngtruong&show_icons=true&include_all_commits=true&count_private=true)
 
-![alt text](https://activity-graph.herokuapp.com/graph?username=thinhngtruong&bg_color=FFFFFF&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![alt text](https://activity-graph.herokuapp.com/graph?username=thinhngtruong&bg_color=FFFFFF&color=5594F0&line=5594F0&point=FFFFFF&hide_border=true)
 
 <br />
 
