@@ -7,6 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=5594F0&lines=Software%20Engineer)
 
 ![Profile views](https://komarev.com/ghpvc/?username=thinhngtruong)
+[![From Vietnam with <3](https://raw.githubusercontent.com/webuild-community/badge/master/svg/love.svg)](https://webuild.community)
 
 
 ### 💻 &nbsp;About Me
