@@ -36,21 +36,6 @@
 
 <br />
 
-### 🛠 &nbsp;Tech Stack
-Programing Language: Javascript/Typescript, Golang <br />
-Frontend Development: ReactJS, React hook, Redux, Redux-toolkit, React-query, NextJS, Jquery, Vanilla JS, ES6, SCSS, Storybook, MUI, AntDesign, TailwindCSS, Chakra UI, Bootstrap, Speed Optimization & Security <br />
-Backend Development: Gin, GORM, Kafka, Node.js, Express.js, Sequelize, Docker <br />
-Database: MySQL, MongoDB, Redis <br />
-OS: Linux, macOS, Windows <br />
-Cloud: AWS S3, AWS EC2, AWS Cloudfront <br />
-Build & Bundle Tools: Grunt, Gulp, webpack <br />
-CI/CD Tools: Jenkins, Circle CI, Github Action, Vercel, Heroku <br />
-Testing: Jest, Enzyme, Testing-library, Convey, Gandalf, Cypress, Cucumber, Mocha, Chai<br />
-CS Knowledge: Data Structure & Algorithm, OS, Networking <br />
-Project management tools: Jira, Clickup, Notion, Trello <br />
-Git: Bitbucket, Gitlab, Github <br />
-<br />
-
 ### 🌐&nbsp;Connect with me:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 [<img align="left" alt="krista.hcmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -81,5 +66,4 @@ Git: Bitbucket, Gitlab, Github <br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/thinhngtruong/
-[github]: https://github.com/thinhngtruong
-
+[linkedin]: https://thomasnguyen.site/
