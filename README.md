@@ -37,8 +37,8 @@
 <br />
 
 ### 🌐&nbsp;Connect with me:
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
-[<img align="left" alt="krista.hcmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][web]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -66,4 +66,5 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/thinhngtruong/
-[linkedin]: https://thomasnguyen.site/
+[web]: https://thomasnguyen.site/
+[github]: https://github.com/thinhngtruong
