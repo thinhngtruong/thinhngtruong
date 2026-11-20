@@ -14,14 +14,12 @@
 🔭  Have over 7 years experience in Software development and currently working at Grab as Software Engineer.
 <br />
 💡  Enthusiastic developer with high flexibility to adapt to the new working environment and have good self-study ability.
-
 <br />
 
 ### 💬 &nbsp;Favorite quotes
 > You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
 >
 >— Steve Jobs
-
 <br />
 
 ### 📊 &nbsp;Some interesting stats about my Github
