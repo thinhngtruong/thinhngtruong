@@ -11,7 +11,7 @@
 
 
 ### 💻 &nbsp;About Me
-🔭  Have over 7 years experience in Software development and currently working at Grab as Software Engineer.
+🔭  Have over 7 years of experience in Software development and currently work at Grab as a Senior Full-stack Software Engineer.
 <br />
 💡  Enthusiastic developer with high flexibility to adapt to the new working environment and have good self-study ability.
 <br />
